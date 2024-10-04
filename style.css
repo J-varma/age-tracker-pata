@@ -1,0 +1,28 @@
+body {
+    font-family:monospace;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 100vh;
+    background-color: #eaf5f4;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#ages {
+    font-size: 2rem;
+    color: #333;
+    margin-top: 20px;
+}
+
+#name {
+    font-family:verdana;
+    color:seagreen;
+}
+
+#calculatedAge {
+    font-style: italic;
+}
